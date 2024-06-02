@@ -1,7 +1,7 @@
-## Deploy to Kubernetes in Google Cloud
+# Deploy to Kubernetes in Google Cloud
 
 
-# Update project in Jenkinsfile
+## Update project in Jenkinsfile
 
 sed -i "s/YOUR_PROJECT/$GOOGLE_CLOUD_PROJECT/g" Jenkinsfile
 git config --global user.email "student@edu.com"     <------ put from first consol 
