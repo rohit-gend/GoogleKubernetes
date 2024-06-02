@@ -1,4 +1,4 @@
-# Deploy to Kubernetes in Google Cloud
+# Deploy to Kubernetes in Google Cloud Plateform
 
 
 ## Update project in Jenkinsfile
